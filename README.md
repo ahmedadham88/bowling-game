@@ -5,10 +5,10 @@ This Application is simulating a bowling application. It can be ran from the com
 ### Procedure
 
   - The Application has a Twitter integration as well. When the game ends, it tries to post to your twitter account automatically if you set it up correctly and you can do that as follows:
-    - Setup a developer twitter account 
 ```sh
 https://apps.twitter.com/
 ```
+    - Setup a developer twitter account 
     - Create a new Application
     - Allow yourself the Read/Write Access
     - Copy your ConsumerKey, ConsumerSecret, AccessToken and AccessTokenSecret codes to your config.properties
